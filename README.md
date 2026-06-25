@@ -1,7 +1,16 @@
 # ciberseguridad
 pre-entrega mi primer laboratorio seguro 
+
+
+
+
 INTRODUCCION
+
+
 Este es mi primer laboratorio seguro de ciberseguridad donde se enfoca en como hacer que mi maquina virtual sea completamente segura.
+
+
+
 
 CONFIGURACION
 Esta es la captura de la configuracion de red en el cual  se elige red interna.
