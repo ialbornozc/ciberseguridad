@@ -9,7 +9,7 @@ INTRODUCCION:
 
 
 
-    Este es mi primer laboratorio seguro de ciberseguridad donde se enfoca en como hacer que mi maquina virtual sea completamente segura.
+ Este es mi primer laboratorio seguro de ciberseguridad donde se enfoca en como hacer que mi maquina virtual sea completamente segura.
 
 
 
@@ -17,8 +17,8 @@ INTRODUCCION:
 CONFIGURACION:
 
 
-     Esta es la captura de la configuracion de red en el cual  se elige red interna.
-     <img width="1280" height="872" alt="kallinux red interna" src="https://github.com/user-attachments/assets/43f38b3d-221a-4010-a3b0-39d93ffe1ab9" />
+ Esta es la captura de la configuracion de red en el cual  se elige red interna.
+<img width="1280" height="872" alt="kallinux red interna" src="https://github.com/user-attachments/assets/43f38b3d-221a-4010-a3b0-39d93ffe1ab9" />
 
 JUSTIFICACION TECNICA:
 
